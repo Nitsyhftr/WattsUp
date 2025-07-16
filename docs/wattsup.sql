@@ -76,7 +76,7 @@ INSERT INTO `pelanggan` (`id_pelanggan`, `nama_pelanggan`, `username`, `password
 ('PLG2302120001', 'Tom Felton', 'Tom', '$2y$10$1rZCh91deEPQKtn5sgg6LOkbkX6klm6Uv6ZqBEdAN08U1qfUEx0Cm', '02803132932', 'hogwarts', 'TRF20230205009'),
 ('PLG2302120002', 'Ron Weasley', 'ron', '$2y$10$kup0pc210G0HJzXXgqnsPuTEQVY2E6b4RMMVJDBUZv3l.kotMgRTC', '09302981031', 'cikoko', 'TRF20230205002'),
 ('PLG2302120003', 'Luna lovegood', 'luna', '$2y$10$W11GRU2CXccfUyTynfDqH.sjIeC9tdoy4mhAMT5alinFjl5vneRoO', '151515155115', 'kampung melayu', 'TRF20230205007'),
-('PLG2507140001', 'Anita Adelia Syahfitri', 'nit', '$2y$10$Ag5L0tv4N3/rB1bNyQNYU.RfMxfRvARcKbdRMAf0TeA/uID71cd6a', '77772882637', 'Singapur', 'TRF20230205009');
+('PLG2507140001', 'Anita Adelia', 'nit', '$2y$10$Ag5L0tv4N3/rB1bNyQNYU.RfMxfRvARcKbdRMAf0TeA/uID71cd6a', '77772882637', 'Singapur', 'TRF20230205009');
 
 -- --------------------------------------------------------
 
